@@ -1,16 +1,14 @@
 body{
-  text-align:center;
-  background-color:#ffcccc;
+  text-align:Center;
+  background-color:pink;
   font-family:"Roboto",sans-serif;
-  cursor:crosshair;
 }
 
 img{
- height:300px;
+ height:150px;
  text-align:center;
  border-style:outset;
  border-color:blue;
-  transform-style:preserve-3d;
 }
 
 h1{
@@ -25,11 +23,4 @@ p{
   background-color:yellow;
   border-style:outset;
   border-color:Green;
-}
-
-button{
-  color:White;
-  width:60px;
-  height:30px;
-  background-color:Green
 }
