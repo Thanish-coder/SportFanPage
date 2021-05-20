@@ -1,0 +1,35 @@
+body{
+  text-align:center;
+  background-color:#ffcccc;
+  font-family:"Roboto",sans-serif;
+  cursor:crosshair;
+}
+
+img{
+ height:300px;
+ text-align:center;
+ border-style:outset;
+ border-color:blue;
+  transform-style:preserve-3d;
+}
+
+h1{
+  color:red;
+  border-style:outset;
+  background-color:orange;
+  border-color:yellow;
+}
+
+p{
+  Color:navy;
+  background-color:yellow;
+  border-style:outset;
+  border-color:Green;
+}
+
+button{
+  color:White;
+  width:60px;
+  height:30px;
+  background-color:Green
+}
