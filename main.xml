@@ -11,3 +11,9 @@
       ads:adUnitId="ca-app-pub-1726598892117580/7528698473">
   </com.google.android.gms.ads.AdView>
 ...
+<application android:hardwareAccelerated="true">
+    <!-- For activities that use ads, hardwareAcceleration should be true. -->
+    <activity android:hardwareAccelerated="true" />
+    <!-- For activities that don't use ads, hardwareAcceleration can be false. -->
+    <activity android:hardwareAccelerated="false" />
+</application>
